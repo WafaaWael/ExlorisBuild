@@ -1,0 +1,26 @@
+{
+  "size": 173661275,
+  "sha256": "e4aa0433da2c355db97d21cbd8c75d4c7bd8a6833180fc328b7187357479bcd3",
+  "parts": [
+    {
+      "name": "data-000.part",
+      "size": 50331648,
+      "sha256": "84f3afe7a0d68610444a5a8fc2472e79114c4c853f7c500699640a69d975dc3d"
+    },
+    {
+      "name": "data-001.part",
+      "size": 50331648,
+      "sha256": "f22bd4462528153b4ca794ae47d34df889c7067a8c1aec29740819da5b3d332c"
+    },
+    {
+      "name": "data-002.part",
+      "size": 50331648,
+      "sha256": "bab3708225d9e4d157a9fafaad56ee231bec938f66ae7d3439e0616ed14479d3"
+    },
+    {
+      "name": "data-003.part",
+      "size": 22666331,
+      "sha256": "fc32b71a90858d031e6cb84844510ce3c568b59d5fb2b8574c9109230cb576ec"
+    }
+  ]
+}
