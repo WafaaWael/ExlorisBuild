@@ -20,6 +20,6 @@ Developed an interactive Unity educational game set in ancient Egypt, featuring 
 
 `Unity 6` · `C#` · `Unity URP` · `Unity Input System` · `Unity Localization` · `TextMeshPro` · `DOTween` · `2D Physics` · `Unity UI / UGUI` · `PlayerPrefs` · `AES Encryption` · `HMAC-SHA256` · `Git` · `GitHub`
 
-## CV timeline
+##  timeline
 
 `Sep 2026 – Oct 2026 | Unity Developer | Exloris 2`
