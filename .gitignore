@@ -1,4 +1,1 @@
-.DS_Store
-_site/
-# Keep the original Unity export locally; commit the smaller parts instead.
-/Build/Build/Build.data.br
+
